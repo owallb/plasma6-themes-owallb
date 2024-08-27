@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Oscar Wallberg",
+                "Email": "oscar.wallberg@pm.me"
+            }
+        ],
+        "Name": "owallb",
+        "Description": "",
+        "Id": "owallb",
+        "Version": "0.1",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "BSD-3-Clause",
+        "Website": "https://github.com/owallb/plasma6-themes-owallb"
+    },
+    "X-Plasma-API": "5.0"
+}
